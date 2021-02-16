@@ -63,6 +63,28 @@
 
 * [Towards accurate segmentation of retinal vessels and the optic disc in fundoscopic images with generative adversarial networks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Retinal+Vessel+Segmentation+Combined+with+Generative+Adversarial+Networks+and+Dense+Unet&btnG=)
 
+* [Deep Learning of Cancer Stem Cell Morphology Using Conditional Generative Adversarial Networks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Deep+Learning+of+Cancer+Stem+Cell+Morphology+Using+Conditional+Generative+Adversarial+Networks&btnG=)
+
+* [Generative Adversarial Training for Weakly Supervised Nuclei Instance Segmentation](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Generative+Adversarial+Training+for+Weakly+Supervised+Nuclei+Instance+Segmentation&btnG=)
+
+* [RescueNet: An unpaired GAN for brain tumor segmentation](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=RescueNet%3A+An+unpaired+GAN+for+brain+tumor+segmentation&btnG=)
+
+* [Breast tumor segmentation in ultrasound images using contextual-information-aware deep adversarial learning framework](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Breast+tumor+segmentation+in+ultrasound+images+using+contextual-information-aware+deep+adversarial+learning+framework&btnG=)
+
+* [mobilegan: skin lesion segmentation using a lightweight generative adversarial network](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=mobilegan%3A+skin+lesion+segmentation+using+a+lightweight+generative+adversarial+network&btnG=)
+
+* [Adversarial learning with multi-scale loss for skin lesion segmentation](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Adversarial+learning+with+multi-scale+loss+for+skin+lesion+segmentation&btnG=)
+
+* [Generative adversarial networks to segment skin lesions](https://scholar.google.com/scholar?q=Generative+adversarial+networks+to+segment+skin+lesions&hl=en&as_sdt=0,5)
+
+* [segmentation of lungs in chest x-ray image using generative adversarial networks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=segmentation+of+lungs+in+chest+x-ray+image+using+generative+adversarial+networks&btnG=)
+
+* [lgan: lung segmentation in ct scans using generative adversarial network](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=lgan%3A+lung+segmentation+in+ct+scans+using+generative+adversarial+network&btnG=)
+
+* [conditional convolution generative adversarial network for bi-ventricle segmentation in cardiac mr images](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conditional+convolution+generative+adversarial+network+for+bi-ventricle+segmentation+in+cardiac+mr+images&btnG=)
+
+* [Retinal vessel segmentation in fundoscopic images with generative adversarial networks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Retinal+vessel+segmentation+in+fundoscopic+images+with+generative+adversarial+networks&btnG=)
+
 ### Augmentation 
 
 ### Classification
