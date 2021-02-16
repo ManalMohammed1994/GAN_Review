@@ -87,6 +87,23 @@
 
 ### Augmentation 
 
+* [SAG-GAN: Semi-Supervised Attention-Guided GANs for Data Augmentation on Medical Images](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SAG-GAN%3A+Semi-Supervised+Attention-Guided+GANs+for+Data+Augmentation+on+Medical+Images&btnG=)
+
+* [Inception Augmentation Generative Adversarial Network](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Inception+Augmentation+Generative+Adversarial+Network&btnG=)
+
+* [Covidgan: Data augmentation using auxiliary classifier gan for improved covid-19 detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Covidgan%3A+Data+augmentation+using+auxiliary+classifier+gan+for+improved+covid-19+detection&btnG=)
+
+* [Chest x-ray generation and data augmentation for cardiovascular abnormality classification](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Chest+x-ray+generation+and+data+augmentation+for+cardiovascular+abnormality+classification&btnG=)
+
+* [Covidgan: Data augmentation using auxiliary classifier gan for improved covid-19 detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Covidgan%3A+Data+augmentation+using+auxiliary+classifier+gan+for+improved+covid-19+detection&btnG=)
+
+* [Breast Cancer Detection Using GAN for Limited Labeled Dataset](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Breast+Cancer+Detection+Using+GAN+for+Limited+Labeled+Dataset&btnG=)
+
+* [Data augmentation for skin lesion using self-attention based progressive generative adversarial network](https://scholar.google.com/scholar?cluster=13153940912860396098&hl=en&as_sdt=0,5)
+
+* [mask2lesion: mask-constrained adversarial skin lesion image synthesis](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=mask2lesion%3A+mask-constrained+adversarial+skin+lesion+image+synthesis&btnG=)
+
+
 ### Classification
 
 ### Reconstruction
