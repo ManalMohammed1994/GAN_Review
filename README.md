@@ -130,4 +130,14 @@
 
 ### Super-Resolution
 
+* [Medical image super resolution using improved generative adversarial networks](https://scholar.google.com/scholar?q=Medical+image+super+resolution+using+improved+generative+adversarial+networks&hl=en&as_sdt=0,5)
+* [Enhanced generative adversarial network for 3D brain MRI super-resolution](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Enhanced+generative+adversarial+network+for+3D+brain+MRI+super-resolution&btnG=)
+* [Efficient and accurate MRI super-resolution using a generative adversarial network and 3D multi-level densely connected network](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Efficient+and+accurate+MRI+super-resolution+using+a+generative+adversarial+network+and+3D+multi-level+densely+connected+network&btnG=)
+* [Generative adversarial networks for noise reduction in low-dose CT](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Generative+adversarial+networks+for+noise+reduction+in+low-dose+CT&btnG=)
+* [Using super-resolution generative adversarial network models and transfer learning to obtain high resolution digital periapical radiographs](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Using+super-resolution+generative+adversarial+network+models+and+transfer+learning+to+obtain+high+resolution+digital+periapical+radiographs&btnG=)
+* [Low-dose chest X-ray image super-resolution using generative adversarial nets with spectral normalization](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Low-dose+chest+X-ray+image+super-resolution+using+generative+adversarial+nets+with+spectral+normalization&btnG=)
+* [CT super-resolution using multiple dense residual block based GAN](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=CT+super-resolution+using+multiple+dense+residual+block+based+GAN&btnG=)
 ### Detection
+
+* [Unsupervised detection of lesions in brain mri using constrained adversarial auto-encoders](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+detection+of+lesions+in+brain+mri+using+constrained+adversarial+auto-encoders&btnG=)
+* [AMD-GAN: Attention encoder and multi-branch structure based generative adversarial networks for fundus disease detection from scanning laser ophthalmoscopy images](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AMD-GAN%3A+Attention+encoder+and+multi-branch+structure+based+generative+adversarial+networks+for+fundus+disease+detection+from+scanning+laser+ophthalmoscopy+images&btnG=)
