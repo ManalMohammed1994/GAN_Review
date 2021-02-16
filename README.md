@@ -106,6 +106,24 @@
 
 ### Classification
 
+* [Semi-supervised learning with deep convolutional generative adversarial networks for canine red blood cells morphology classification](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Semi-supervised+learning+with+deep+convolutional+generative+adversarial+networks+for+canine+red+blood+cells+morphology+classification&btnG=)
+
+* [Unsupervised and semi-supervised learning with categorical generative adversarial networks assisted by wasserstein distance for dermoscopy image classification](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+and+semi-supervised+learning+with+categorical+generative+adversarial+networks+assisted+by+wasserstein+distance+for+dermoscopy+image+classification&btnG=)
+
+* [{Unsupervised learning for cell-level visual representation in histopathology images with generative adversarial networks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%7BUnsupervised+learning+for+cell-level+visual+representation+in+histopathology+images+with+generative+adversarial+networks&btnG=)
+
+* [gan-based synthetic medical image augmentation for increased cnn performance in liver lesion classification](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=gan-based+synthetic+medical+image+augmentation+for+increased+cnn+performance+in+liver+lesion+classification&btnG=)
+
+* [Skin Lesion Classification Using GAN based Data Augmentation](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Skin+Lesion+Classification+Using+GAN+based+Data+Augmentatio&btnG=)
+
+* [Unsupervised Multi-Discriminator Generative Adversarial Network for Lung Nodule Malignancy Classification](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Multi-Discriminator+Generative+Adversarial+Network+for+Lung+Nodule+Malignancy+Classification&btnG=)
+
+* [Generative adversarial learning for reducing manual annotation in semantic segmentation on large scale miscroscopy images: Automated vessel segmentation in retinal fundus image as test case](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Generative+adversarial+learning+for+reducing+manual+annotation+in+semantic+segmentation+on+large+scale+miscroscopy+images%3A+Automated+vessel+segmentation+in+retinal+fundus+image+as+test+case&btnG=)
+
+* [Chest x-ray generation and data augmentation for cardiovascular abnormality classification](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Chest+x-ray+generation+and+data+augmentation+for+cardiovascular+abnormality+classification&btnG=)
+
+* [Semi-supervised deep learning for abnormality classification in retinal images](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Semi-supervised+deep+learning+for+abnormality+classification+in+retinal+images&btnG=)
+
 ### Reconstruction
 
 ### Registration
