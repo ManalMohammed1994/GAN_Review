@@ -41,6 +41,28 @@
 
 ### Segmntation 
 
+* [Cell image segmentation using generative adversarial networks, transfer learning, and augmentations](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Cell+image+segmentation+using+generative+adversarial+networks%2C+transfer+learning%2C+and+augmentations&btnG=)
+
+* [cc-gan: a robust transfer-learning framework for hep-2 specimen image segmentation](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=cc-gan%3A+a+robust+transfer-learning+framework+for+hep-2+specimen+image+segmentation&btnG=)
+
+* [segan: adversarial network with multi-scale l 1 loss for medical image segmentation](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=segan%3A+adversarial+network+with+multi-scale+l+1+loss+for+medical+image+segmentation&btnG=)
+
+* [Recurrent generative adversarial network for learning imbalanced medical image semantic segmentation](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Recurrent+generative+adversarial+network+for+learning+imbalanced+medical+image+semantic+segmentation&btnG=)
+
+* [Breast tumor segmentation in ultrasound images using contextual-information-aware deep adversarial learning framework](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Breast+tumor+segmentation+in+ultrasound+images+using+contextual-information-aware+deep+adversarial+learning+framework&btnG=)
+
+* [Semi-supervised segmentation of lesion from breast ultrasound images with attentional generative adversarial network](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Semi-supervised+segmentation+of+lesion+from+breast+ultrasound+images+with+attentional+generative+adversarial+network&btnG=)
+
+* [skin lesion segmentation via generative adversarial networks with dual discriminators](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=skin+lesion+segmentation+via+generative+adversarial+networks+with+dual+discriminators&btnG=)
+
+* [lungseg-net: lung field segmentation using generative adversarial network](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=lungseg-net%3A+lung+field+segmentation+using+generative+adversarial+network&btnG=)
+
+* [semi-supervised generative adversarial networks for the segmentation of the left ventricle in pediatric mri](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=semi-supervised+generative+adversarial+networks+for+the+segmentation+of+the+left+ventricle+in+pediatric+mri&btnG=)
+
+* [Retinal Vessel Segmentation Combined with Generative Adversarial Networks and Dense Unet](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Retinal+Vessel+Segmentation+Combined+with+Generative+Adversarial+Networks+and+Dense+Unet&btnG=)
+
+* [Towards accurate segmentation of retinal vessels and the optic disc in fundoscopic images with generative adversarial networks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Retinal+Vessel+Segmentation+Combined+with+Generative+Adversarial+Networks+and+Dense+Unet&btnG=)
+
 ### Augmentation 
 
 ### Classification
