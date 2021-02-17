@@ -57,6 +57,7 @@ ___
 * [Breast Cancer Detection Using GAN for Limited Labeled Dataset](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Breast+Cancer+Detection+Using+GAN+for+Limited+Labeled+Dataset&btnG=)
 * [Data augmentation for skin lesion using self-attention based progressive generative adversarial network](https://scholar.google.com/scholar?cluster=13153940912860396098&hl=en&as_sdt=0,5)
 * [mask2lesion: mask-constrained adversarial skin lesion image synthesis](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=mask2lesion%3A+mask-constrained+adversarial+skin+lesion+image+synthesis&btnG=)
+* [MM-GAN: 3D MRI Data Augmentation for Medical Image Segmentation via Generative Adversarial Networksf](https://scholar.google.com/scholar?cluster=6471084276545421352&hl=en&as_sdt=0,5&as_ylo=2020&scioq=Retinal+Vessel+Segmentation+Combined+With+Generative+Adversarial+Networks+and+Dense+U-Net)
 
 
 ### Classification
