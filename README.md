@@ -1,4 +1,4 @@
-# The Role of Generative Adversarial Network in Medical Image Analysis An in depth survey
+# GAN_Review
 ___
 ##  Medical Images Processing
 
@@ -75,6 +75,11 @@ ___
 ### Reconstruction
 
 ### Registration
+
+* [A GAN Based Multi-Contrast Modalities Medical Image Registration Approach](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=A+GAN+Based+Multi-Contrast+Modalities+Medical+Image+Registration+Approach&btnG=)
+* [Deformable medical image registration using generative adversarial networks](https://scholar.google.com/scholar?q=Deformable+medical+image+registration+using+generative+adversarial+networks,&hl=en&as_sdt=0&as_vis=1&oi=scholart)
+* [Joint Registration And Segmentation Of Xray Images Using Generative Adversarial Networks](https://scholar.google.com/scholar?cluster=10359671077746288721&hl=en&as_sdt=2005&sciodt=0,5)
+* [Deform-GAN: an unsupervised learning model for deformable registration](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Deform-GAN%3A+an+unsupervised+learning+model+for+deformable+registration&btnG=)
 
 ### Super-Resolution
 
