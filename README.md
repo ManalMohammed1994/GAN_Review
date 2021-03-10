@@ -58,6 +58,11 @@ ___
 * [Data augmentation for skin lesion using self-attention based progressive generative adversarial network](https://scholar.google.com/scholar?cluster=13153940912860396098&hl=en&as_sdt=0,5)
 * [mask2lesion: mask-constrained adversarial skin lesion image synthesis](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=mask2lesion%3A+mask-constrained+adversarial+skin+lesion+image+synthesis&btnG=)
 * [MM-GAN: 3D MRI Data Augmentation for Medical Image Segmentation via Generative Adversarial Networksf](https://scholar.google.com/scholar?cluster=6471084276545421352&hl=en&as_sdt=0,5&as_ylo=2020&scioq=Retinal+Vessel+Segmentation+Combined+With+Generative+Adversarial+Networks+and+Dense+U-Net)
+* [Active Appearance Model Induced Generative Adversarial Network for Controlled Data Augmentation](https://scholar.google.com/scholar?q=Active+Appearance+Model+Induced+Generative+Adversarial+Network+for+Controlled+Data+Augmentation&hl=en&as_sdt=0&as_vis=1&oi=scholart)
+* [Synthesizing diverse lung nodules wherever massively: 3D multi-conditional GAN-based CT image augmentation for object detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=Synthesizing+diverse+lung+nodules+wherever+massively%3A+3D+multi-conditional+GAN-based+CT+image+augmentation+for+object+detection&btnG=)
+* [DermGAN: synthetic generation of clinical skin images with pathology](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=DermGAN%3A+synthetic+generation+of+clinical+skin+images+with+pathology&btnG=)
+* [Red blood cell image generation for data augmentation using conditional generative adversarial networks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=Red+blood+cell+image+generation+for+data+augmentation+using+conditional+generative+adversarial+networks&btnG=)
+
 
 
 ### Classification
@@ -72,7 +77,7 @@ ___
 * [Chest x-ray generation and data augmentation for cardiovascular abnormality classification](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Chest+x-ray+generation+and+data+augmentation+for+cardiovascular+abnormality+classification&btnG=)
 * [Semi-supervised deep learning for abnormality classification in retinal images](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Semi-supervised+deep+learning+for+abnormality+classification+in+retinal+images&btnG=)
 
-### Reconstruction
+
 
 ### Registration
 
@@ -81,7 +86,7 @@ ___
 * [Joint Registration And Segmentation Of Xray Images Using Generative Adversarial Networks](https://scholar.google.com/scholar?cluster=10359671077746288721&hl=en&as_sdt=2005&sciodt=0,5)
 * [Deform-GAN: an unsupervised learning model for deformable registration](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Deform-GAN%3A+an+unsupervised+learning+model+for+deformable+registration&btnG=)
 
-### Super-Resolution
+### Reconstruction
 
 * [Medical image super resolution using improved generative adversarial networks](https://scholar.google.com/scholar?q=Medical+image+super+resolution+using+improved+generative+adversarial+networks&hl=en&as_sdt=0,5)
 * [Enhanced generative adversarial network for 3D brain MRI super-resolution](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Enhanced+generative+adversarial+network+for+3D+brain+MRI+super-resolution&btnG=)
@@ -90,6 +95,7 @@ ___
 * [Using super-resolution generative adversarial network models and transfer learning to obtain high resolution digital periapical radiographs](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Using+super-resolution+generative+adversarial+network+models+and+transfer+learning+to+obtain+high+resolution+digital+periapical+radiographs&btnG=)
 * [Low-dose chest X-ray image super-resolution using generative adversarial nets with spectral normalization](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Low-dose+chest+X-ray+image+super-resolution+using+generative+adversarial+nets+with+spectral+normalization&btnG=)
 * [CT super-resolution using multiple dense residual block based GAN](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=CT+super-resolution+using+multiple+dense+residual+block+based+GAN&btnG=)
+* [High quality and fast compressed sensing MRI reconstruction via edge-enhanced dual discriminator generative adversarial network](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=High+quality+and+fast+compressed+sensing+MRI+reconstruction+via+edge-enhanced+dual+discriminator+generative+adversarial+network.&btnG=)
 ### Detection
 
 * [Unsupervised detection of lesions in brain mri using constrained adversarial auto-encoders](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+detection+of+lesions+in+brain+mri+using+constrained+adversarial+auto-encoders&btnG=)
