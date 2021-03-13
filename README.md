@@ -101,3 +101,4 @@ ___
 
 * [Unsupervised detection of lesions in brain mri using constrained adversarial auto-encoders](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+detection+of+lesions+in+brain+mri+using+constrained+adversarial+auto-encoders&btnG=)
 * [AMD-GAN: Attention encoder and multi-branch structure based generative adversarial networks for fundus disease detection from scanning laser ophthalmoscopy images](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AMD-GAN%3A+Attention+encoder+and+multi-branch+structure+based+generative+adversarial+networks+for+fundus+disease+detection+from+scanning+laser+ophthalmoscopy+images&btnG=)
+* [Generative adversarial networks for brain lesion detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=Generative+adversarial+networks+for+brain+lesion+detection&btnG=)
