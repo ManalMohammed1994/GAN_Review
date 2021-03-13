@@ -96,6 +96,7 @@ ___
 * [Low-dose chest X-ray image super-resolution using generative adversarial nets with spectral normalization](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Low-dose+chest+X-ray+image+super-resolution+using+generative+adversarial+nets+with+spectral+normalization&btnG=)
 * [CT super-resolution using multiple dense residual block based GAN](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=CT+super-resolution+using+multiple+dense+residual+block+based+GAN&btnG=)
 * [High quality and fast compressed sensing MRI reconstruction via edge-enhanced dual discriminator generative adversarial network](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=High+quality+and+fast+compressed+sensing+MRI+reconstruction+via+edge-enhanced+dual+discriminator+generative+adversarial+network.&btnG=)
+* [Subsampled brain MRI reconstruction by generative adversarial neural networks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Subsampled+brain+MRI+reconstruction+by+generative+adversarial+neural+networks&btnG=)
 ### Detection
 
 * [Unsupervised detection of lesions in brain mri using constrained adversarial auto-encoders](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+detection+of+lesions+in+brain+mri+using+constrained+adversarial+auto-encoders&btnG=)
