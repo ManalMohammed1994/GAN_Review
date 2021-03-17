@@ -63,6 +63,7 @@ ___
 * [DermGAN: synthetic generation of clinical skin images with pathology](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=DermGAN%3A+synthetic+generation+of+clinical+skin+images+with+pathology&btnG=)
 * [Red blood cell image generation for data augmentation using conditional generative adversarial networks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=Red+blood+cell+image+generation+for+data+augmentation+using+conditional+generative+adversarial+networks&btnG=)
 * [Performance improvement of mediastinal lymph node severity detection using GAN and Inception network](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=Performance+improvement+of+mediastinal+lymph+node+severity+detection+using+GAN+and+Inception+network&btnG=)
+* [Data augmentation using MG-GAN for improved cancer classification on gene expression data](https://scholar.google.com/scholar?cluster=12584691991618831886&hl=en&as_sdt=2005&sciodt=0,5)
 
 
 
