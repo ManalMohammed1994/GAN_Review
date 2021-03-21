@@ -64,6 +64,7 @@ ___
 * [Red blood cell image generation for data augmentation using conditional generative adversarial networks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=Red+blood+cell+image+generation+for+data+augmentation+using+conditional+generative+adversarial+networks&btnG=)
 * [Performance improvement of mediastinal lymph node severity detection using GAN and Inception network](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=Performance+improvement+of+mediastinal+lymph+node+severity+detection+using+GAN+and+Inception+network&btnG=)
 * [Data augmentation using MG-GAN for improved cancer classification on gene expression data](https://scholar.google.com/scholar?cluster=12584691991618831886&hl=en&as_sdt=2005&sciodt=0,5)
+* [Data augmentation using MG-GAN for improved cancer classification on gene expression data](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Data+augmentation+using+%7BMG-GAN%7D+for+improved+cancer+classification+on+gene+expression+data&btnG=)
 
 
 
@@ -71,7 +72,7 @@ ___
 
 * [Semi-supervised learning with deep convolutional generative adversarial networks for canine red blood cells morphology classification](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Semi-supervised+learning+with+deep+convolutional+generative+adversarial+networks+for+canine+red+blood+cells+morphology+classification&btnG=)
 * [Unsupervised and semi-supervised learning with categorical generative adversarial networks assisted by wasserstein distance for dermoscopy image classification](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+and+semi-supervised+learning+with+categorical+generative+adversarial+networks+assisted+by+wasserstein+distance+for+dermoscopy+image+classification&btnG=)
-* [{Unsupervised learning for cell-level visual representation in histopathology images with generative adversarial networks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%7BUnsupervised+learning+for+cell-level+visual+representation+in+histopathology+images+with+generative+adversarial+networks&btnG=)
+* [Unsupervised learning for cell-level visual representation in histopathology images with generative adversarial networks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%7BUnsupervised+learning+for+cell-level+visual+representation+in+histopathology+images+with+generative+adversarial+networks&btnG=)
 * [gan-based synthetic medical image augmentation for increased cnn performance in liver lesion classification](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=gan-based+synthetic+medical+image+augmentation+for+increased+cnn+performance+in+liver+lesion+classification&btnG=)
 * [Skin Lesion Classification Using GAN based Data Augmentation](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Skin+Lesion+Classification+Using+GAN+based+Data+Augmentatio&btnG=)
 * [Unsupervised Multi-Discriminator Generative Adversarial Network for Lung Nodule Malignancy Classification](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Multi-Discriminator+Generative+Adversarial+Network+for+Lung+Nodule+Malignancy+Classification&btnG=)
