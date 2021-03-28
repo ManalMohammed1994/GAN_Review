@@ -1,4 +1,8 @@
 # GAN_Review
+## GAN Types
+
+*[Cycle-consistent Generative Adversarial Network (CycleGAN)](https://scholar.google.com/scholar?cluster=18396328236259959400&hl=en&as_sdt=0,5)
+
 ___
 ##  Medical Images Processing
 
