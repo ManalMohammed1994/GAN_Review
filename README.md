@@ -7,7 +7,6 @@ ___
 * [unpaired brain mr-to-ct synthesis using a structure-constrained cyclegan](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=unpaired+brain+mr-to-ct+synthesis+using+a+structure-constrained+cyclegan&btnG=)
 * [MedGAN: Medical image translation using GANs](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MedGAN%3A+Medical+image+translation+using+GANs&btnG=)
 * [cross-modality synthesis from ct to pet using fcn and gan networks for improved automated lesion detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=cross-modality+synthesis+from+ct+to+pet+using+fcn+and+gan+networks+for+improved+automated+lesion+detection&btnG=)
-* [DiCyc: GAN-based deformation invariant cross-domain information fusion for medical image synthesis](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DiCyc%3A+GAN-based+deformation+invariant+cross-domain+information+fusion+for+medical+image+synthesis&btnG=)
 * [MRI to CT Synthesis of the Lumbar Spine from a Pseudo-3D Cycle GAN](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MRI+to+CT+Synthesis+of+the+Lumbar+Spine+from+a+Pseudo-3D+Cycle+GAN&btnG=)
 * [Feasibility of synthetic computed tomography generated with an adversarial network for multi-sequence magnetic resonance-based brain radiotherapy](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Feasibility+of+synthetic+computed+tomography+generated+with+an+adversarial+network+for+multi-sequence+magnetic+resonance-based+brain+radiotherapy&btnG=)
 * [Medical image synthesis with context-aware generative adversarial networks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Medical+image+synthesis+with+context-aware+generative+adversarial+networks&btnG=)
@@ -88,6 +87,7 @@ ___
 * [Deformable medical image registration using generative adversarial networks](https://scholar.google.com/scholar?q=Deformable+medical+image+registration+using+generative+adversarial+networks,&hl=en&as_sdt=0&as_vis=1&oi=scholart)
 * [Joint Registration And Segmentation Of Xray Images Using Generative Adversarial Networks](https://scholar.google.com/scholar?cluster=10359671077746288721&hl=en&as_sdt=2005&sciodt=0,5)
 * [Deform-GAN: an unsupervised learning model for deformable registration](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Deform-GAN%3A+an+unsupervised+learning+model+for+deformable+registration&btnG=)
+* [DiCyc: GAN-based deformation invariant cross-domain information fusion for medical image synthesis](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DiCyc%3A+GAN-based+deformation+invariant+cross-domain+information+fusion+for+medical+image+synthesis&btnG=)
 
 ### Reconstruction
 
