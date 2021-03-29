@@ -8,7 +8,6 @@
 * [Laplacian Pyramid of Generative Adversarial Network(LAPGAN)](https://scholar.google.com/scholar?cluster=8031319294003741632&hl=en&as_sdt=0,5)
 * [Cycle-consistent Generative Adversarial Network (CycleGAN)](https://scholar.google.com/scholar?cluster=18396328236259959400&hl=en&as_sdt=0,5)
 * [Pix2Pix](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Image-toimage+translation+with+conditional+adversarial+networks.&btnG=)
-* [Conditional Generative Adversarial Networks (cGAN)](https://scholar.google.com/scholar?cluster=15692266515007774871&hl=en&as_sdt=0,5)
 * [Categorical Generative Adversarial Networks (catGAN)](https://scholar.google.com/scholar?cluster=3077106609105382524&hl=en&as_sdt=0,5)
 * [Boundary Equilibrium Generative Adversarial Networks(BEGAN)](https://scholar.google.com/scholar?cluster=1848820004197844693&hl=en&as_sdt=0,5)
 * [Bidirectional Generative Adversarial Networks](https://scholar.google.com/scholar?cluster=10661655492543733137&hl=en&as_sdt=0,5)
