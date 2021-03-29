@@ -7,7 +7,6 @@
 * [Self-Attention Generative Adversarial Networks](https://scholar.google.com/scholar?cluster=7330853420568873733&hl=en&as_sdt=0,5)
 * [Laplacian Pyramid of Generative Adversarial Network(LAPGAN)](https://scholar.google.com/scholar?cluster=8031319294003741632&hl=en&as_sdt=0,5)
 * [Cycle-consistent Generative Adversarial Network (CycleGAN)](https://scholar.google.com/scholar?cluster=18396328236259959400&hl=en&as_sdt=0,5)
-* [Pix2Pix](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Image-toimage+translation+with+conditional+adversarial+networks.&btnG=)
 * [Categorical Generative Adversarial Networks (catGAN)](https://scholar.google.com/scholar?cluster=3077106609105382524&hl=en&as_sdt=0,5)
 * [Boundary Equilibrium Generative Adversarial Networks(BEGAN)](https://scholar.google.com/scholar?cluster=1848820004197844693&hl=en&as_sdt=0,5)
 * [Bidirectional Generative Adversarial Networks](https://scholar.google.com/scholar?cluster=10661655492543733137&hl=en&as_sdt=0,5)
@@ -15,6 +14,7 @@
 * [Auxiliary Classifier Generative Adversarial Network(AC-GAN)](https://scholar.google.com/scholar?cluster=14828291299960415366&hl=en&as_sdt=0,5)
 * [Variational Autoencoder Generative Adversarial Network (VAE-GAN)](https://scholar.google.com/scholar?cluster=3858681721182893389&hl=en&as_sdt=0,5)
 * [Information Maximizing Generative Adversarial Network (InfoGAN)](https://scholar.google.com/scholar?cluster=14881367722116467754&hl=en&as_sdt=0,5)
+* [Pix2Pix](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Image-toimage+translation+with+conditional+adversarial+networks.&btnG=)
 
 ___
 ##  Medical Images Processing
